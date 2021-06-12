@@ -1,0 +1,33 @@
+.headerImg{
+    background-image:url("https://wallpaperaccess.com/full/329633.jpg") ;
+    background:url("https://wallpaperaccess.com/full/329633.jpg"), linear-gradient(180deg, rgb(219, 219, 219), rgb(100, 100, 100));
+    background-size: cover;
+    height: 6rem;
+    position: relative;
+}
+
+.searchbox{
+    margin-top: -0.5rem;
+    position: relative;
+}
+
+.headerInput{
+    background-color: #fafafa;
+    border-radius: 10px 0 0 10px;
+    height: 2.2rem;
+    width: 60%;
+    padding: 0.5rem;
+    vertical-align: middle;
+}
+
+.headerSearch{
+    background-color: rgb(255, 0, 0);
+    border-radius: 0 10px 10px 0;
+    color: #fafafa;
+    height: 1rem;
+    vertical-align: middle;
+}
+
+.hiddenComponents{
+    display: none;
+}

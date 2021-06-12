@@ -1,0 +1,29 @@
+.movieTile{
+    background-color: black;
+    color:rgb(255, 241, 163);
+    margin: 0.2rem 0;
+    padding: 1rem;
+    height: 250px;
+}
+
+.moivePoster{
+    float: left;
+    height: 150px;
+    width: auto;
+    margin-right: 0.5rem;
+    margin-bottom: 50px;
+}
+
+#movieTitle{
+    color: rgb(255, 241, 163);
+}
+
+#moviePlot{
+    color: white;
+}
+
+#movieRating{
+    font-size: small;
+    color: lightgray;
+    margin-top: 1rem;
+}

@@ -1,0 +1,41 @@
+.movieInfoTile{
+    height: max-content;
+    margin-top: 1rem;
+}
+
+.movieInfoPoster{
+    float: left;
+    height: 150px;
+    width: auto;
+    margin: 1rem;
+}
+
+#movieTitle{
+    color: white;
+    margin-bottom: 0;
+}
+
+#movieRating{
+    color: lightgray;
+    margin-top: -2rem;
+}
+
+#movieGenres{
+    color: white;
+}
+
+#moivePlot{
+    color: white;
+    margin: 0 1rem;
+}
+
+#movieDescription{
+    color: white;
+    margin: 0 1rem;
+}
+
+.heading{
+    color:rgb(255, 241, 163);
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+}
